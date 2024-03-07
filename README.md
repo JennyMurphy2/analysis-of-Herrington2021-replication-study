@@ -1,1 +1,1 @@
-# analysis-of-Herrington2021-replication-study
+This repository is part of a large replication project conducted by the Sports Science Replication Centre (https://ssreplicationcentre.com/). It includes the data and analyses for the replication study of "Quadriceps Strength and Functional Performance After Anterior Cruciate Ligament Reconstruction in Professional Soccer Players at Time of Return of Sport" by Herrington et al (2021).
